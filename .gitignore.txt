@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac OS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml
+
+# Ignore large files — uncomment below if you don’t want to upload model/data files
+# models/
+# data/
+
+# Logs and caches
+*.log
+*.cache
